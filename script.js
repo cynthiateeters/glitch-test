@@ -43,8 +43,6 @@
       saveItems();
     };
 
-    console.log(newListItem);
-
     return newListItem;
   }
 
