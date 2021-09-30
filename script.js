@@ -82,4 +82,4 @@
     const data = JSON.stringify(items);
     localStorage.setItem("items", data);
   }
-})();
+}());
